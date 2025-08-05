@@ -1,0 +1,4 @@
+berries = ["raspberry", "blackberry"]
+berries.insert(0, "strawberry")
+berries.insert(2, "blueberry")
+print(f"Berries after insert: {berries}")
